@@ -1,2 +1,2 @@
 # testirepo
-Tämä on pelkkä kokeilu
+Tämä on pelkkä testi
